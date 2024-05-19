@@ -1,6 +1,6 @@
 # sgn-donut-Bypass-GUI
 Shellcode encoder&amp;loader written in Go language, which can encrypt binary or PE files. It offers a variety of complex encryption algorithms to choose from, with sgn&amp;donut GUI form. The output files include the encrypted binary files and an EXE file compiled using the built-in compiler.
-### **Preversion_v0.0.0**
+### **Preversion_v0.0.1**
 Only a GUI of sgn encoder, written in Go , nothing shine
 ![0240519](https://github.com/A1bu5/sgn-donut-Bypass-GUI/assets/170033147/02aec086-085e-4d3e-9c75-fc7c2547493d)
 ![图片](https://github.com/A1bu5/sgn-donut-Bypass-GUI/assets/170033147/fd7a2ed8-4f2f-4f7b-a68b-d23fb73e01a9)
